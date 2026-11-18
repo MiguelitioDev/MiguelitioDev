@@ -12,21 +12,23 @@ Combino uma base em marketing com desenvolvimento de software para construir sit
 
 **Linguagens:** Python, TypeScript, JavaScript, Java, HTML, CSS
 
-**Plataformas:** Node.js, Express, Vercel, Railway, Git e GitHub
+**Frameworks e bibliotecas:** React, Vite, Three.js, GSAP, Node.js, Express
+
+**Plataformas e ferramentas:** Vercel, Railway, Git e GitHub
 
 ## Projetos em destaque
 
-**Prospectoror-Core** (Python): ferramenta de prospecção que encontra empresas com potencial para contratar um site.
+**Prospectoror-Core** (Python): ferramenta gratuita para encontrar empresas sem site e gerar leads comerciais.
 
-**mj-studio** (TypeScript): site da MJ Studios.
+**mj-studio** (TypeScript): site oficial da MJ Studios, com catálogo de modelos de sites.
 
-**site-bezerra** (TypeScript): site desenvolvido para cliente.
+**portifolio-miguel-costa** (React, Three.js): meu portfólio interativo.
 
-**portifolio-miguel-costa** (CSS): meu portfólio.
+**calculadora-orcamento** (React): calculadora de orçamentos para serviços de design e desenvolvimento.
 
-**calculadora-orcamento** (HTML): calculadora de orçamento para projetos.
+**site-bezerra** (TypeScript): apresentação em formato de site, com slides navegáveis.
 
-**solid_refatoracao** (Java): refatoração aplicando princípios SOLID.
+**solid_refatoracao** (Java): trabalho acadêmico em equipe aplicando princípios SOLID e UML.
 
 ## Contato
 
